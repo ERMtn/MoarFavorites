@@ -18,6 +18,7 @@ List  of features that may or may not come into existence.
 - About button to show plugin info.
 - Localization: Add other common languages (Spanish, French, German...), open to sugestions.
 - Better bitmap icon.
+- Toolbar button implementation for older versions.
 
 ## About
 This was inspired by the existing [NppFavorites](https://github.com/heldersepu/nppfavorites) plugin, adapted to what I actually needed.
