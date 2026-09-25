@@ -11,6 +11,7 @@ Add or remove the current file with one click (or edit the config file manually)
 | `v8.9.6` | ✔️ | ✔️ |
 | `v8.8.8` | ✔️ | ✔️ |
 | `v8.2` | ✔️ | ✔️ |
+| `v7.8.8` | ✅<br> ❗ No toolbar button | ✅<br>❗ No toolbar button|
 
 
 ## Roadmap
