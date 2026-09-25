@@ -6,9 +6,11 @@ Add or remove the current file with one click (or edit the config file manually)
 
 | NPP version | 32-bit | 64-bit |
 | :---: | :---: | :---: |
+| `v8.9.8.1` | ✔️ | ✔️ |
 | `v8.9.7` | ✔️ | ✔️ |
-| `v8.9.6` | ❔ | ✔️ |
-| `v8.8.8` | ✔️ | ❔ |
+| `v8.9.6` | ✔️ | ✔️ |
+| `v8.8.8` | ✔️ | ✔️ |
+| `v8.2` | ✔️ | ✔️ |
 
 
 ## Roadmap
