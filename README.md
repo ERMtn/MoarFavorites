@@ -1,0 +1,2 @@
+# MoarFavorites
+Notepad++ plugin
