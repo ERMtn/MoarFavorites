@@ -3,7 +3,7 @@ A simple plugin for Notepad++ so you can manage your most used files, as many as
 Add or remove the current file with one click (or edit the config file manually).
 
 ## Compatibility
-
+For now only 32 and 64 bits, sorry ARM users.
 | NPP version | 32-bit | 64-bit |
 | :---: | :---: | :---: |
 | `v8.9.8.1` | ✔️ | ✔️ |
@@ -16,6 +16,7 @@ Add or remove the current file with one click (or edit the config file manually)
 
 ## Roadmap
 List  of features that may or may not come into existence.
+- Get the ARM64 build to work.
 - About button to show plugin info.
 - Localization: Add other common languages (Spanish, French, German...), open to sugestions.
 - Better bitmap icon.
