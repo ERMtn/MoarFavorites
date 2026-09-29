@@ -15,7 +15,7 @@ Add or remove the current file with one click (or edit the config file manually)
 Once I'm proud enough of the source code I'll upload it here, for now it's just the DLLs.
 
 ## Compatibility
-For now only 32 and 64 bits, sorry ARM users.
+Reccommended v8+. For now only 32 and 64 bits, sorry ARM users.
 | NPP version | 32-bit | 64-bit |
 | :---: | :---: | :---: |
 | `v8.9.8.1` | ✔️ | ✔️ |
@@ -23,7 +23,7 @@ For now only 32 and 64 bits, sorry ARM users.
 | `v8.9.6` | ✔️ | ✔️ |
 | `v8.8.8` | ✔️ | ✔️ |
 | `v8.2` | ✔️ | ✔️ |
-| `v7.8.8` | ✅<br> ❗ No toolbar button | ✅<br>❗ No toolbar button|
+| `v7.8.8` | ✅<br> ❗ Only standard icons | ✅<br>❗ Only standard icons|
 
 ## Roadmap
 List  of features that may or may not come into existence.
